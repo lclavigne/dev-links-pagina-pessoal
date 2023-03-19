@@ -48,8 +48,6 @@ body * {
 
 #profile img {
   width: 180px;
-  border: 1px solid var(--stroke-color);
-  border-radius: 50%;
 }
 
 #profile p {
